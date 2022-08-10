@@ -1,5 +1,5 @@
-public static JavaDemo {
-	public static void Main() {
-		system.out.println("nihao");
+public class JavaDemo {
+	public static void main(String[] args) {
+		System.out.println("nihao");
 	}
 }
