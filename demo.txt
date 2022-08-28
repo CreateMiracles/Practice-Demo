@@ -6,4 +6,8 @@
 
 这是在windows电脑上的修改
 
+<<<<<<< Updated upstream
 x1
+=======
+x2
+>>>>>>> Stashed changes
